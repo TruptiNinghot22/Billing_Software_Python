@@ -1,0 +1,17 @@
+	 Welcome TO Mall
+ Bill Number:5649
+ Customer Name:jlhsdfhldfj
+ Phone Number:896542453
+ Customer Email:sdflkjf
+==================================================
+ Products			QTY			Price
+==================================================
+ Levis		1		5000
+ Fair&Lovely		1		20
+ Parachute		1		25
+
+ =============================================
+ Sub Amount:				Rs.5045.00
+ Tax Amount:				Rs.50.20
+ Total Amount:				Rs.5095.20
+=============================================

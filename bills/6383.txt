@@ -1,0 +1,14 @@
+	 Welcome TO Mall
+ Bill Number:6383
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==================================================
+ Products			QTY			Price
+================================================== Polo		1		1500
+
+ =============================================
+ Sub Amount:				Rs.6500.00
+ Tax Amount:				Rs.50.00
+ Total Amount:				Rs.6550.00
+=============================================

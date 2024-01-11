@@ -1,0 +1,11 @@
+	 Welcome TO Mall
+ Bill Number:6855
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==================================================
+ Products			QTY			Price
+==================================================
+
+ Peter England		1		2100
+ Iphone_X		1		40000

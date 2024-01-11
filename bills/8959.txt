@@ -1,0 +1,18 @@
+	 Welcome TO Mall
+ Bill Number:8959
+ Customer Name:raj
+ Phone Number:39483924
+ Customer Email:alskdjf
+==================================================
+ Products			QTY			Price
+==================================================
+ Levis		                1		                               5000
+ Ponds		                1		                                20
+ Roadster		                1		                               1800
+ Samsung M16		                1		                              16000
+
+ =============================================
+ Sub Amount:				Rs.22820.00
+ Tax Amount:				Rs.68.20
+ Total Amount:				Rs.22888.20
+=============================================

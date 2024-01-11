@@ -1,0 +1,17 @@
+	 Welcome TO Mall
+ Bill Number:1981
+ Customer Name:sdfd
+ Phone Number:12334543
+ Customer Email:asdf
+==================================================
+ Products			QTY			Price
+==================================================
+ Levis		1		5000
+ Levis		1		5000
+ Levis		1		5000
+
+ =============================================
+ Sub Amount:				Rs.15000.00
+ Tax Amount:				Rs.100.00
+ Total Amount:				Rs.15100.00
+=============================================

@@ -1,0 +1,16 @@
+	 Welcome TO Mall
+ Bill Number:8994
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==================================================
+ Products			QTY			Price
+==================================================
+ Levis		1		5000
+ Samsung M16		1		16000
+
+ =============================================
+ Sub Amount:				Rs.21000.00
+ Tax Amount:				Rs.50.00
+ Total Amount:				Rs.21050.00
+=============================================
